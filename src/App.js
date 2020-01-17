@@ -11,14 +11,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          I was changed on the feature branch
-        </a>
+        <p>
+          This was changed in the Feature Branch.
+        </p>
       </header>
     </div>
   );
